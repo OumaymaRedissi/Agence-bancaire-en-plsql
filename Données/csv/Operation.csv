@@ -1,0 +1,1001 @@
+num_op,type_op,date_op,montant_op,libelle_op,id_tmm,num_co
+1,Credit,2021-05-07 04:13:56,3605.704,Virtual zero defect middleware,3,521
+2,Credit,2020-12-04 16:58:23,3557.802,Organized content-based policy,1,84
+3,Debit,2021-03-18 13:45:39,1163.301,Optimized 24 hour emulation,76,543
+4,Debit,2021-01-27 00:21:18,3371.69,Synchronised upward-trending adapter,76,596
+5,Debit,2020-07-22 14:20:02,543.675,Fully-configurable multi-state paradigm,73,439
+6,Credit,2020-07-09 18:16:16,3702.194,Re-engineered system-worthy time-frame,76,611
+7,Debit,2020-10-17 17:00:50,562.2,Multi-lateral bottom-line leverage,100,773
+8,Debit,2021-01-31 20:02:03,2020.959,Realigned methodical policy,97,635
+9,Credit,2020-07-25 22:54:00,844.063,Grass-roots even-keeled contingency,1,305
+10,Credit,2020-08-30 18:40:22,1132.933,Multi-layered foreground circuit,73,317
+11,Debit,2020-10-02 00:20:38,2487.632,Secured coherent conglomeration,93,379
+12,Credit,2021-01-14 11:24:36,4049.905,Implemented cohesive collaboration,75,784
+13,Debit,2021-02-10 06:08:20,589.044,Front-line object-oriented algorithm,19,339
+14,Credit,2020-11-06 21:25:02,398.118,Intuitive dedicated neural-net,75,727
+15,Debit,2020-08-12 05:03:49,155.001,Right-sized solution-oriented intranet,75,443
+16,Debit,2021-03-31 01:14:12,46.225,Quality-focused attitude-oriented service-desk,100,33
+17,Debit,2020-08-30 18:47:05,784.787,Reactive dynamic adapter,76,787
+18,Debit,2020-08-27 22:19:10,1749.752,Versatile system-worthy utilisation,46,376
+19,Debit,2020-08-16 03:01:21,4765.093,Total hybrid task-force,73,712
+20,Credit,2020-12-10 16:57:09,1014.368,Object-based zero administration policy,92,770
+21,Credit,2020-12-09 22:50:33,4172.799,Compatible content-based intranet,55,465
+22,Credit,2020-10-14 13:14:31,4432.261,Stand-alone human-resource alliance,100,643
+23,Credit,2020-07-12 09:53:09,99.352,User-friendly impactful productivity,91,684
+24,Credit,2020-07-16 05:20:42,3239.641,Assimilated mobile benchmark,3,800
+25,Debit,2021-03-06 06:50:02,1118.561,Expanded cohesive monitoring,14,87
+26,Debit,2020-05-20 23:26:00,974.903,Business-focused web-enabled architecture,2,461
+27,Debit,2020-08-01 20:48:51,613.099,Quality-focused neutral local area network,73,579
+28,Debit,2020-05-30 04:28:32,4381.648,Self-enabling attitude-oriented archive,76,540
+29,Credit,2020-09-02 13:44:47,1558.093,Automated maximized ability,14,738
+30,Credit,2020-12-12 07:52:56,1886.809,Switchable value-added interface,76,381
+31,Debit,2020-12-01 00:26:07,2366.648,Exclusive modular customer loyalty,93,504
+32,Debit,2021-01-31 00:59:46,1808.942,Integrated leading edge paradigm,11,560
+33,Debit,2020-06-25 02:06:14,207.774,Function-based composite database,57,700
+34,Credit,2021-02-19 02:58:10,2904.987,Robust multimedia benchmark,75,533
+35,Debit,2020-08-16 03:35:40,255.767,Upgradable dedicated monitoring,3,575
+36,Debit,2021-01-13 05:09:29,1765.46,Decentralized optimal challenge,19,372
+37,Credit,2020-06-05 17:38:05,1072.801,Open-source well-modulated solution,76,760
+38,Credit,2021-04-28 10:33:13,1034.178,Reactive 24/7 middleware,19,640
+39,Credit,2020-06-28 20:46:14,2610.794,Organized zero administration utilisation,57,55
+40,Credit,2021-03-25 05:33:10,1779.731,Profit-focused systematic process improvement,11,392
+41,Credit,2020-10-20 11:30:23,3281.565,Customer-focused hybrid open system,75,472
+42,Credit,2020-07-03 02:22:49,3865.413,Proactive mission-critical conglomeration,73,312
+43,Debit,2021-04-17 00:39:43,1492.128,Customizable national time-frame,100,339
+44,Credit,2020-12-19 12:26:15,2985.316,Ameliorated exuding archive,55,598
+45,Credit,2020-06-13 18:29:34,1290.506,Networked intermediate throughput,11,716
+46,Debit,2020-08-19 15:38:19,2857.292,Multi-channelled directional alliance,75,771
+47,Credit,2021-01-27 20:18:05,2277.149,Synchronised client-driven attitude,91,349
+48,Debit,2020-06-14 02:41:27,1634.961,Exclusive bifurcated matrix,3,328
+49,Credit,2020-08-10 20:40:48,1197.432,Cross-group uniform ability,75,444
+50,Credit,2020-06-06 01:58:41,4790.003,Seamless optimal architecture,19,337
+51,Debit,2020-09-02 15:18:13,1407.596,Multi-layered fresh-thinking projection,3,702
+52,Credit,2020-06-24 17:28:01,2247.145,Future-proofed local implementation,73,604
+53,Debit,2021-03-01 23:51:56,748.927,Persistent non-volatile internet solution,46,536
+54,Credit,2020-07-30 08:45:01,1481.752,Total fresh-thinking initiative,91,402
+55,Debit,2021-01-08 08:29:02,3599.872,Inverse value-added emulation,97,535
+56,Credit,2020-05-20 13:35:25,2700.936,Seamless multi-tasking workforce,11,643
+57,Credit,2021-01-23 17:37:37,737.228,Profit-focused optimizing protocol,75,416
+58,Credit,2020-10-07 20:02:19,1985.5,Digitized exuding core,57,48
+59,Debit,2021-04-29 15:04:14,3732.653,Grass-roots background time-frame,100,356
+60,Credit,2020-12-25 13:44:16,635.865,Re-contextualized methodical interface,11,100
+61,Debit,2020-12-24 17:38:53,1222.138,Cloned composite product,75,339
+62,Debit,2020-06-13 09:54:21,168.17,Assimilated clear-thinking artificial intelligence,14,608
+63,Credit,2020-08-19 00:50:38,2302.984,User-centric upward-trending database,39,783
+64,Debit,2020-10-05 08:39:59,2363.482,Vision-oriented user-facing support,57,70
+65,Debit,2020-07-01 18:35:14,327.902,Open-source needs-based flexibility,100,681
+66,Debit,2020-12-10 10:14:35,1360.935,Virtual 24/7 initiative,14,97
+67,Credit,2020-05-17 14:11:35,3723.007,Centralized stable Graphic Interface,11,784
+68,Credit,2020-10-29 13:03:31,847.206,Phased foreground hub,11,398
+69,Credit,2021-01-16 12:15:11,128.527,Multi-channelled motivating standardization,11,761
+70,Credit,2020-11-21 05:34:48,649.691,Mandatory bifurcated task-force,64,675
+71,Credit,2020-11-22 23:03:58,3512.974,Multi-lateral stable application,57,512
+72,Debit,2021-04-15 04:11:03,4864.367,Intuitive needs-based capability,11,712
+73,Credit,2021-02-09 16:15:24,945.409,Extended maximized Graphical User Interface,57,730
+74,Debit,2020-05-25 23:14:53,3648.341,Robust zero defect help-desk,11,465
+75,Debit,2020-10-30 01:31:41,4900.964,Horizontal bi-directional neural-net,91,400
+76,Debit,2021-01-15 06:51:51,4114.919,Diverse well-modulated flexibility,76,659
+77,Credit,2021-02-21 22:09:36,71.121,Networked incremental throughput,57,747
+78,Debit,2020-10-15 05:29:53,4911.336,Progressive composite frame,57,320
+79,Credit,2021-03-22 03:13:26,2780.987,Programmable responsive encoding,19,306
+80,Credit,2020-11-29 12:20:10,3944.477,Team-oriented disintermediate attitude,100,691
+81,Debit,2021-02-06 10:06:23,4145.98,Realigned contextually-based firmware,97,28
+82,Debit,2021-01-11 21:12:31,3136.304,Switchable maximized leverage,11,498
+83,Credit,2021-02-24 22:54:48,3565.659,Exclusive motivating monitoring,39,516
+84,Credit,2020-07-05 20:48:57,2348.081,Multi-layered intermediate emulation,76,413
+85,Debit,2020-09-16 15:16:55,4416.922,Proactive explicit project,46,52
+86,Debit,2020-06-13 00:04:50,2543.834,Total client-driven framework,64,81
+87,Debit,2020-11-09 05:58:40,3409.113,Stand-alone multi-state toolset,14,85
+88,Debit,2020-08-05 12:51:24,4163.411,Phased well-modulated analyzer,75,747
+89,Credit,2020-06-22 13:11:24,4159.322,Function-based optimal Graphical User Interface,64,750
+90,Credit,2021-04-26 00:59:52,1239.107,Universal systematic neural-net,92,706
+91,Debit,2020-08-02 13:27:12,1586.946,Implemented global workforce,46,19
+92,Credit,2021-05-02 22:18:50,2895.05,Progressive heuristic functionalities,19,718
+93,Debit,2021-04-21 00:33:24,4453.74,Synchronised radical analyzer,11,584
+94,Debit,2021-02-28 01:42:53,2367.989,Profit-focused mobile open architecture,75,369
+95,Debit,2020-09-07 00:47:20,996.3,De-engineered content-based hub,2,531
+96,Credit,2020-12-13 22:16:59,1928.734,Multi-layered zero administration capability,2,2
+97,Credit,2021-01-10 20:54:55,2048.276,Realigned context-sensitive interface,11,733
+98,Credit,2021-04-14 19:13:11,1532.793,Vision-oriented homogeneous functionalities,11,694
+99,Credit,2021-02-06 18:31:30,2304.532,Compatible local policy,100,404
+100,Debit,2021-03-07 18:39:19,582.164,Object-based scalable ability,2,334
+101,Debit,2021-01-12 10:22:03,632.242,Right-sized local projection,11,747
+102,Debit,2020-06-26 11:03:13,4819.383,Business-focused content-based help-desk,2,696
+103,Debit,2020-10-01 12:36:13,1558.797,Expanded zero administration benchmark,97,317
+104,Debit,2020-07-21 02:39:47,1497.536,Profound 5th generation hardware,93,794
+105,Credit,2020-11-07 03:21:32,4669.134,Future-proofed cohesive capability,3,656
+106,Debit,2020-09-10 12:38:15,4688.764,Programmable multi-state contingency,100,518
+107,Debit,2021-04-18 12:24:37,3522.703,Inverse dedicated task-force,73,705
+108,Credit,2021-01-13 16:21:27,2304.751,Focused encompassing software,14,623
+109,Debit,2020-09-05 07:31:35,3475.951,Cross-platform dynamic support,2,528
+110,Credit,2021-03-08 12:11:53,4006.838,Synergistic actuating structure,73,337
+111,Credit,2021-01-04 15:28:11,3667.776,Expanded fault-tolerant solution,11,557
+112,Credit,2021-05-02 22:15:42,3765.969,Implemented optimal infrastructure,3,431
+113,Credit,2020-06-11 00:16:51,3612.445,Operative client-server task-force,100,502
+114,Debit,2021-01-25 04:16:14,2057.772,Ameliorated logistical open architecture,39,786
+115,Debit,2020-11-18 05:20:22,3110.285,Secured systemic Graphical User Interface,92,393
+116,Debit,2020-07-30 01:43:07,1737.368,Switchable attitude-oriented approach,91,429
+117,Credit,2020-10-28 01:34:01,2443.039,Multi-tiered analyzing superstructure,14,402
+118,Debit,2020-07-23 01:17:14,3147.244,Triple-buffered actuating methodology,76,518
+119,Credit,2021-01-16 15:31:13,1070.37,Grass-roots clear-thinking application,2,742
+120,Credit,2021-02-22 02:44:32,1304.626,Face to face logistical success,97,781
+121,Debit,2021-03-20 12:33:57,1365.668,Horizontal executive collaboration,2,713
+122,Credit,2020-06-21 09:57:01,2783.044,Profit-focused human-resource adapter,75,99
+123,Credit,2020-06-21 05:47:54,2364.909,Organized heuristic parallelism,11,499
+124,Debit,2021-04-14 12:42:20,4065.175,Progressive radical intranet,76,87
+125,Credit,2021-01-13 20:18:06,2115.281,Public-key system-worthy focus group,91,577
+126,Credit,2020-07-07 17:26:55,2203.202,Optimized maximized time-frame,93,379
+127,Credit,2020-08-25 20:30:00,2857.627,Advanced tertiary service-desk,46,397
+128,Credit,2020-06-13 08:42:50,847.076,Adaptive even-keeled conglomeration,46,661
+129,Credit,2020-05-12 05:17:57,137.158,Right-sized multi-state hardware,39,95
+130,Credit,2021-02-14 23:20:23,703.818,Optional demand-driven approach,75,567
+131,Credit,2020-10-17 11:52:29,2175.027,Extended national process improvement,93,751
+132,Debit,2021-04-17 08:46:25,3560.721,Compatible human-resource model,39,643
+133,Debit,2021-01-04 18:03:20,1371.445,Universal static array,93,742
+134,Debit,2021-02-19 17:35:45,2240.996,Stand-alone grid-enabled project,100,599
+135,Debit,2021-02-22 07:57:04,1971.353,Customer-focused clear-thinking focus group,97,58
+136,Debit,2020-08-30 10:18:41,4851.651,Persistent motivating product,73,733
+137,Debit,2020-07-18 18:26:00,2514.825,Enterprise-wide bifurcated array,11,60
+138,Credit,2020-09-02 14:38:33,2969.269,Distributed holistic policy,64,315
+139,Debit,2020-10-31 23:57:09,2877.176,Seamless stable toolset,2,94
+140,Credit,2020-10-11 22:25:38,2968.108,Pre-emptive optimal capability,75,28
+141,Debit,2020-11-05 12:30:41,1742.054,Advanced modular matrices,64,406
+142,Credit,2021-03-02 07:10:35,400.135,Reduced regional process improvement,73,626
+143,Credit,2020-10-09 01:13:40,2005.354,Extended object-oriented frame,19,24
+144,Credit,2020-06-19 03:17:25,3552.473,Ergonomic leading edge framework,93,469
+145,Debit,2021-02-04 11:30:42,2713.562,Pre-emptive zero defect capability,57,516
+146,Credit,2021-04-21 14:58:10,4389.075,Enterprise-wide discrete definition,14,394
+147,Credit,2020-12-07 15:14:48,2097.245,Horizontal hybrid synergy,2,89
+148,Credit,2020-09-09 23:00:44,4194.935,Multi-lateral grid-enabled project,97,751
+149,Debit,2021-04-09 13:08:11,1070.839,Open-source static challenge,3,660
+150,Credit,2020-05-30 04:10:02,4472.383,Realigned bi-directional service-desk,1,578
+151,Debit,2020-08-02 08:08:00,4240.199,Secured cohesive intranet,39,1
+152,Credit,2021-04-29 01:44:45,3638.256,Cross-platform even-keeled flexibility,11,55
+153,Debit,2020-12-13 13:48:34,3569.209,Mandatory intermediate info-mediaries,39,767
+154,Debit,2020-09-30 23:19:33,737.773,Managed coherent secured line,57,89
+155,Credit,2021-04-25 23:53:24,2471.409,Optional maximized frame,11,362
+156,Debit,2020-07-06 01:12:48,4010.703,Multi-channelled clear-thinking website,57,749
+157,Credit,2020-05-17 14:07:33,2816.444,Self-enabling motivating ability,76,397
+158,Debit,2020-06-29 14:26:13,2113.475,Quality-focused multi-state Graphic Interface,97,686
+159,Debit,2020-05-26 23:48:33,1426.032,Vision-oriented modular analyzer,2,356
+160,Credit,2020-06-13 03:18:53,4044.268,Multi-layered maximized orchestration,76,752
+161,Debit,2020-08-15 22:07:38,2264.799,Visionary bandwidth-monitored leverage,55,565
+162,Debit,2020-05-24 09:10:19,2461.313,Balanced national portal,3,462
+163,Credit,2021-04-22 10:37:24,2500.407,Right-sized asynchronous open system,39,516
+164,Credit,2021-01-29 23:28:15,1858.045,Grass-roots static approach,91,352
+165,Credit,2020-09-25 02:26:47,2088.253,Polarised value-added matrices,57,26
+166,Debit,2021-03-29 06:40:11,3242.751,Cloned 24 hour focus group,91,713
+167,Credit,2021-03-20 03:26:44,3675.244,Cross-platform object-oriented orchestration,73,542
+168,Debit,2020-05-23 00:04:03,2154.928,Diverse bandwidth-monitored functionalities,2,46
+169,Credit,2021-03-07 12:17:38,3230.181,Open-source zero administration emulation,2,477
+170,Debit,2021-03-14 02:49:01,2124.77,Pre-emptive secondary function,73,648
+171,Credit,2021-03-04 18:14:05,1481.769,Business-focused incremental architecture,2,515
+172,Debit,2020-09-01 08:56:39,1167.547,Synergistic secondary customer loyalty,92,560
+173,Credit,2020-07-05 04:21:23,239.717,User-centric zero administration monitoring,92,412
+174,Debit,2020-12-28 06:21:06,4945.077,Reverse-engineered leading edge frame,76,592
+175,Debit,2021-02-01 09:21:40,4346.123,Persistent 5th generation knowledge base,73,742
+176,Credit,2020-10-17 05:49:41,1278.627,Stand-alone secondary complexity,76,463
+177,Credit,2021-02-25 11:14:55,41.685,Persistent multimedia contingency,73,62
+178,Credit,2020-10-14 07:15:06,3301.055,Public-key maximized policy,91,341
+179,Debit,2021-01-20 09:50:09,1093.186,Grass-roots methodical function,46,586
+180,Debit,2020-10-26 08:49:03,2898.543,Customer-focused heuristic service-desk,97,473
+181,Debit,2020-09-22 05:46:19,2577.33,Managed 6th generation matrices,76,26
+182,Debit,2021-01-10 11:03:16,2424.088,Stand-alone methodical functionalities,2,85
+183,Credit,2020-12-07 13:44:26,83.19,Robust optimizing knowledge base,100,66
+184,Debit,2021-04-06 11:15:21,3979.037,Realigned bottom-line definition,11,447
+185,Debit,2020-11-17 15:54:27,3768.953,Organic analyzing orchestration,64,90
+186,Debit,2020-07-31 16:32:10,943.543,Polarised non-volatile alliance,39,399
+187,Debit,2020-11-16 04:42:04,4761.749,Total disintermediate algorithm,93,44
+188,Credit,2020-10-29 07:19:06,836.098,Streamlined optimal challenge,14,664
+189,Debit,2020-08-02 04:59:08,1018.256,Down-sized uniform array,19,591
+190,Debit,2021-05-01 12:21:58,2133.5,Cross-platform bi-directional success,11,382
+191,Debit,2020-05-16 01:56:48,4244.976,Fully-configurable zero tolerance data-warehouse,91,405
+192,Debit,2021-02-12 19:08:26,3306.813,Robust transitional methodology,93,50
+193,Credit,2020-11-10 13:31:25,1790.726,Adaptive stable core,11,644
+194,Debit,2020-10-06 13:06:13,4243.356,Persistent multi-tasking monitoring,11,420
+195,Credit,2020-11-01 14:52:26,1827.58,Operative dynamic Graphical User Interface,3,714
+196,Credit,2020-06-07 08:25:22,3589.855,Organic intermediate framework,14,538
+197,Credit,2020-08-06 06:24:06,668.19,Virtual even-keeled definition,93,322
+198,Credit,2020-12-05 00:52:29,3815.495,Reverse-engineered dynamic internet solution,1,737
+199,Credit,2021-04-05 03:49:27,2151.791,Quality-focused executive synergy,39,327
+200,Credit,2020-11-12 04:24:47,139.851,Public-key human-resource firmware,92,664
+201,Debit,2020-08-07 03:43:02,427.091,Phased methodical intranet,92,416
+202,Debit,2020-05-16 20:58:26,3661.557,Proactive asynchronous approach,55,331
+203,Debit,2020-09-29 07:59:39,1390.837,Implemented object-oriented task-force,75,391
+204,Debit,2020-07-21 00:01:23,2782.299,Adaptive zero defect throughput,75,717
+205,Debit,2021-04-16 11:22:17,1461.356,User-friendly incremental functionalities,57,68
+206,Credit,2020-11-30 08:42:20,3656.606,Customer-focused disintermediate framework,39,757
+207,Credit,2020-07-22 00:05:07,1934.426,Cross-group cohesive framework,100,769
+208,Debit,2020-10-09 19:17:36,1900.911,Up-sized client-driven success,100,628
+209,Credit,2020-11-30 20:56:54,474.893,Optimized bi-directional customer loyalty,91,418
+210,Debit,2020-05-12 22:22:29,2238.777,Multi-layered leading edge project,92,61
+211,Debit,2020-12-07 11:39:07,1889.429,Persevering logistical success,1,673
+212,Credit,2020-11-17 06:06:17,4343.091,Business-focused bifurcated hub,19,74
+213,Credit,2020-08-06 10:30:26,2221.136,Reduced high-level projection,11,527
+214,Debit,2021-05-08 10:23:05,2821.052,Function-based non-volatile archive,39,730
+215,Debit,2020-07-23 03:37:47,3499.017,Cross-group executive analyzer,46,582
+216,Debit,2020-09-08 11:16:29,3323.008,Adaptive background data-warehouse,75,510
+217,Credit,2021-02-25 19:30:27,4160.044,Triple-buffered bottom-line success,97,28
+218,Credit,2020-06-08 07:09:28,2691.378,Up-sized 6th generation policy,14,612
+219,Credit,2020-06-16 08:37:31,3536.394,Implemented well-modulated capacity,75,2
+220,Debit,2020-10-04 05:04:08,312.837,Adaptive context-sensitive capability,73,491
+221,Debit,2020-05-18 14:45:53,1638.72,Synergized motivating hub,76,473
+222,Debit,2021-04-10 05:57:46,1312.317,Future-proofed explicit emulation,100,563
+223,Credit,2020-11-06 06:48:23,699.496,Automated contextually-based leverage,91,20
+224,Debit,2020-06-17 09:23:31,1508.863,Vision-oriented bifurcated core,97,718
+225,Debit,2020-06-16 09:53:27,2870.496,Balanced background internet solution,91,696
+226,Credit,2020-06-25 22:10:01,2267.718,Public-key 4th generation Graphic Interface,11,337
+227,Credit,2020-11-19 05:30:29,4655.731,Networked radical success,14,429
+228,Debit,2020-05-17 22:14:57,3297.473,Down-sized transitional help-desk,75,674
+229,Credit,2020-09-21 04:08:20,4522.72,Optional 4th generation policy,97,656
+230,Credit,2020-07-08 20:17:25,1632.848,Fully-configurable contextually-based project,19,565
+231,Debit,2020-07-10 03:38:32,1062.011,Front-line systemic local area network,2,473
+232,Debit,2020-10-05 23:11:53,337.564,Innovative demand-driven instruction set,3,637
+233,Credit,2020-09-09 04:27:08,1342.238,Compatible coherent structure,97,668
+234,Credit,2020-11-07 03:57:46,133.217,Upgradable bifurcated model,39,739
+235,Credit,2020-12-16 05:53:54,1487.78,De-engineered high-level encryption,55,337
+236,Credit,2020-07-13 09:30:45,2289.569,Proactive asynchronous ability,93,769
+237,Debit,2021-02-18 17:46:19,305.105,Visionary optimizing moratorium,14,348
+238,Debit,2020-06-24 06:33:18,1470.718,Fully-configurable zero administration secured line,39,574
+239,Credit,2020-11-25 21:49:35,4506.295,Realigned cohesive neural-net,19,31
+240,Credit,2021-02-22 22:06:31,2274.686,Multi-lateral regional algorithm,57,404
+241,Debit,2021-03-16 11:24:54,41.437,Multi-layered attitude-oriented capacity,14,87
+242,Debit,2021-02-06 12:12:03,1622.588,Switchable foreground architecture,14,47
+243,Credit,2020-10-04 12:07:46,2621.397,Monitored logistical archive,57,422
+244,Credit,2020-10-14 09:55:50,655.467,Fundamental web-enabled success,57,565
+245,Credit,2020-09-21 18:47:08,4189.944,Distributed zero administration product,55,784
+246,Debit,2020-12-06 09:27:12,4240.149,Operative hybrid budgetary management,76,565
+247,Debit,2020-10-15 09:45:27,480.456,Visionary local Graphical User Interface,76,538
+248,Credit,2021-01-17 23:58:12,1299.654,Universal logistical productivity,64,561
+249,Debit,2020-12-02 01:27:41,2907.301,Total client-driven orchestration,92,499
+250,Credit,2021-03-12 08:11:46,2408.167,Universal optimizing solution,19,8
+251,Debit,2020-06-04 02:06:46,3884.025,Diverse exuding pricing structure,92,659
+252,Debit,2020-05-27 12:36:15,3418.089,Diverse client-driven artificial intelligence,3,534
+253,Debit,2020-10-02 23:57:47,853.373,Implemented human-resource Graphic Interface,75,326
+254,Debit,2020-06-02 17:21:19,95.651,Programmable bottom-line core,55,99
+255,Credit,2021-01-08 02:14:16,3455.038,Optimized 6th generation functionalities,91,368
+256,Credit,2020-05-22 00:21:05,1607.666,Object-based next generation algorithm,19,717
+257,Credit,2020-12-04 11:57:51,3987.761,Re-engineered cohesive circuit,57,328
+258,Credit,2020-06-15 21:43:02,2688.542,Open-source logistical infrastructure,19,35
+259,Debit,2020-10-10 17:35:18,88.253,Right-sized needs-based hierarchy,57,787
+260,Credit,2020-12-02 19:53:11,2520.651,Advanced contextually-based functionalities,75,644
+261,Debit,2020-08-25 12:37:02,3418.792,Re-contextualized directional support,93,781
+262,Credit,2020-12-13 12:52:23,2021.561,Ergonomic transitional parallelism,73,374
+263,Credit,2020-11-09 12:12:29,4240.569,Organized discrete middleware,2,470
+264,Debit,2020-05-12 17:05:38,2932.113,Optimized empowering hub,91,533
+265,Debit,2020-11-30 07:38:19,2246.501,Re-engineered executive leverage,19,727
+266,Credit,2020-08-01 19:19:26,4063.998,Organized actuating instruction set,55,391
+267,Debit,2021-02-20 20:20:24,4223.923,Face to face upward-trending firmware,97,386
+268,Debit,2020-12-04 21:06:43,3138.155,Public-key 24/7 structure,100,452
+269,Debit,2020-11-05 12:04:38,3882.79,Synergistic intermediate product,57,609
+270,Debit,2021-04-12 01:27:45,4767.601,Implemented neutral application,11,584
+271,Credit,2021-01-03 07:23:56,4350.17,Innovative stable firmware,2,409
+272,Debit,2021-02-02 13:59:55,2809.732,Versatile intangible attitude,39,638
+273,Credit,2020-05-28 08:41:53,215.438,Progressive asymmetric hub,91,63
+274,Debit,2020-09-15 04:47:52,3673.623,Innovative executive complexity,1,412
+275,Debit,2020-09-13 01:29:55,632.089,Assimilated contextually-based policy,100,789
+276,Credit,2021-04-11 23:16:08,4631.136,Public-key directional paradigm,73,527
+277,Debit,2021-01-26 23:20:22,4161.124,Organic leading edge collaboration,97,357
+278,Debit,2021-01-11 20:13:22,2282.648,Robust modular archive,97,376
+279,Debit,2020-11-29 21:34:52,702.524,Diverse intermediate hub,11,27
+280,Debit,2020-08-21 23:04:01,4803.889,Focused web-enabled neural-net,73,358
+281,Credit,2020-11-17 20:27:50,2898.036,Monitored actuating synergy,75,622
+282,Debit,2020-12-25 23:02:06,147.511,Phased scalable projection,3,83
+283,Debit,2021-01-07 18:19:55,1129.306,Progressive coherent benchmark,93,750
+284,Debit,2020-07-06 18:49:00,1060.261,Adaptive 6th generation architecture,93,670
+285,Debit,2021-01-24 12:43:40,2815.792,Implemented coherent task-force,46,36
+286,Credit,2021-01-09 15:21:27,2367.357,Compatible regional application,75,656
+287,Credit,2020-11-11 17:10:46,3458.447,Open-source incremental capability,2,385
+288,Credit,2020-09-22 12:40:37,1318.858,Triple-buffered disintermediate knowledge user,76,20
+289,Credit,2020-08-25 07:12:53,4976.991,Optimized 6th generation methodology,64,578
+290,Debit,2020-08-08 18:31:41,2890.386,Upgradable discrete attitude,3,393
+291,Debit,2021-02-24 06:11:05,344.305,Managed multi-state alliance,2,385
+292,Debit,2021-03-22 01:26:04,2967.564,Multi-channelled zero tolerance artificial intelligence,46,39
+293,Debit,2020-06-04 16:05:23,2385.735,Synergized bi-directional methodology,57,501
+294,Debit,2020-06-25 05:34:50,132.866,Multi-layered scalable adapter,100,347
+295,Credit,2020-11-25 04:07:02,2435.826,Digitized radical attitude,19,90
+296,Credit,2020-11-22 09:46:16,1779.871,Intuitive national monitoring,97,627
+297,Debit,2020-06-03 15:15:21,580.894,Cross-group non-volatile Graphical User Interface,46,548
+298,Debit,2021-02-02 16:42:18,2544.206,Programmable solution-oriented encoding,75,757
+299,Debit,2020-05-30 14:46:10,1545.144,Virtual contextually-based local area network,100,314
+300,Credit,2021-01-08 01:41:20,3308.469,Ergonomic exuding workforce,57,396
+301,Credit,2021-02-11 07:52:01,2739.014,Automated non-volatile protocol,46,359
+302,Credit,2020-12-27 08:09:10,3178.459,Cloned 5th generation adapter,14,755
+303,Debit,2020-09-30 09:11:57,4521.174,Reverse-engineered grid-enabled website,75,763
+304,Debit,2021-04-28 00:01:39,3683.43,Total homogeneous alliance,93,722
+305,Credit,2020-08-09 05:17:46,2676.354,Multi-tiered real-time neural-net,75,586
+306,Debit,2020-12-12 18:48:33,2156.739,Multi-lateral even-keeled secured line,19,688
+307,Credit,2020-07-31 13:36:28,1258.464,Object-based homogeneous service-desk,2,15
+308,Debit,2021-02-19 12:32:57,3396.9,Quality-focused value-added info-mediaries,57,478
+309,Credit,2020-09-30 05:51:21,535.993,Customer-focused grid-enabled time-frame,55,759
+310,Debit,2021-02-12 13:11:23,2384.404,Re-engineered zero administration infrastructure,100,439
+311,Debit,2020-08-23 14:58:30,3370.879,Business-focused reciprocal architecture,97,630
+312,Credit,2020-07-21 14:22:28,3135.084,De-engineered even-keeled alliance,11,550
+313,Debit,2021-05-06 01:40:31,736.966,Polarised mission-critical installation,39,38
+314,Debit,2020-08-02 21:49:03,4057.0,Extended modular protocol,39,570
+315,Credit,2021-05-07 01:58:39,4274.455,Configurable user-facing paradigm,11,756
+316,Debit,2021-03-18 14:02:11,4809.59,Fully-configurable reciprocal analyzer,57,21
+317,Credit,2020-07-27 14:11:19,2880.526,Inverse foreground capacity,11,643
+318,Debit,2021-03-11 21:40:07,3521.193,Ameliorated global secured line,93,447
+319,Debit,2021-02-18 17:19:56,3718.292,Ergonomic responsive model,19,390
+320,Credit,2021-03-24 19:47:09,4634.685,Robust global groupware,46,336
+321,Credit,2020-10-26 04:24:43,3209.396,Multi-lateral tangible open system,100,440
+322,Credit,2020-07-09 12:34:44,2582.8,Visionary directional open architecture,19,664
+323,Credit,2020-08-17 16:56:28,2884.995,Programmable scalable access,100,637
+324,Debit,2021-03-23 12:47:49,358.863,Function-based high-level model,100,630
+325,Debit,2020-11-09 06:34:51,4338.719,Open-architected exuding support,92,748
+326,Debit,2021-04-04 19:54:20,3459.53,Triple-buffered grid-enabled analyzer,11,307
+327,Debit,2020-09-13 16:44:21,4903.93,Triple-buffered hybrid knowledge user,91,678
+328,Debit,2021-02-15 23:06:14,1705.825,Stand-alone holistic neural-net,55,340
+329,Debit,2020-06-25 10:48:36,203.779,Self-enabling needs-based neural-net,11,30
+330,Credit,2020-08-31 09:49:28,1651.788,Reduced bottom-line encoding,92,704
+331,Debit,2020-07-04 03:52:24,603.289,Balanced fault-tolerant website,11,563
+332,Credit,2020-06-27 08:07:20,737.95,Stand-alone asynchronous throughput,97,793
+333,Credit,2020-05-17 20:47:16,3442.449,Managed empowering Graphical User Interface,11,593
+334,Debit,2020-12-16 14:52:03,2434.105,Reverse-engineered intangible hardware,97,691
+335,Debit,2021-01-18 22:16:31,3472.407,Streamlined executive frame,91,365
+336,Credit,2021-04-22 23:50:40,3359.445,Fundamental empowering extranet,100,361
+337,Credit,2020-10-21 06:11:30,826.87,Total client-server matrices,39,759
+338,Debit,2020-06-21 09:29:06,1077.721,Synergized actuating workforce,91,442
+339,Credit,2021-04-27 19:11:23,2262.611,Down-sized neutral contingency,75,769
+340,Debit,2021-03-13 05:43:24,478.626,Phased zero administration service-desk,3,582
+341,Credit,2020-07-15 09:41:46,1899.959,Optional bottom-line projection,91,314
+342,Credit,2020-08-14 11:55:39,4531.46,Intuitive didactic success,93,490
+343,Credit,2021-03-10 02:56:09,3841.649,Reactive modular toolset,97,708
+344,Credit,2020-12-22 17:37:03,1242.597,Intuitive client-server moderator,11,557
+345,Credit,2020-07-04 04:54:10,3688.308,Multi-channelled contextually-based methodology,93,330
+346,Credit,2021-01-19 00:10:54,2000.703,Intuitive tertiary functionalities,2,505
+347,Credit,2020-06-27 01:48:45,4934.441,Polarised systemic monitoring,97,560
+348,Credit,2020-08-26 01:02:16,4942.401,Stand-alone next generation knowledge base,76,617
+349,Credit,2021-05-08 13:15:33,2180.429,Quality-focused object-oriented framework,93,688
+350,Debit,2020-08-12 23:21:32,2214.894,Public-key attitude-oriented encryption,11,463
+351,Debit,2021-02-28 23:44:31,3878.813,Programmable hybrid hierarchy,75,603
+352,Credit,2020-10-21 02:09:54,4963.078,Networked client-server knowledge base,57,793
+353,Credit,2020-07-18 05:05:16,3900.966,Stand-alone bifurcated project,14,86
+354,Debit,2020-07-15 23:18:16,1050.734,Cross-platform dynamic hierarchy,57,525
+355,Debit,2020-12-10 15:56:37,773.262,Centralized local structure,97,674
+356,Credit,2020-10-31 12:28:09,3462.652,Managed leading edge software,93,52
+357,Credit,2021-01-24 12:04:15,2926.228,Enterprise-wide well-modulated task-force,46,49
+358,Credit,2021-02-07 15:45:23,2484.788,Persevering transitional implementation,11,505
+359,Debit,2020-05-13 22:13:49,1821.497,Automated didactic monitoring,100,766
+360,Debit,2021-02-25 19:03:52,1265.104,Decentralized client-driven data-warehouse,57,617
+361,Debit,2020-11-13 21:00:44,1089.392,Balanced asymmetric Graphical User Interface,91,326
+362,Credit,2020-12-27 23:32:18,4691.681,Persistent neutral standardization,76,404
+363,Credit,2020-11-01 18:46:36,1436.171,Switchable multi-state parallelism,92,38
+364,Credit,2021-04-24 22:23:00,1474.664,Universal responsive implementation,93,75
+365,Credit,2021-03-16 16:20:54,545.46,Exclusive even-keeled definition,3,587
+366,Credit,2021-04-29 22:00:28,3675.126,Implemented 4th generation standardization,91,323
+367,Debit,2021-03-12 15:39:57,2164.811,Polarised incremental process improvement,73,796
+368,Debit,2020-12-29 12:57:50,1837.354,Organized disintermediate parallelism,55,11
+369,Debit,2020-11-20 01:33:32,3221.03,Phased eco-centric database,3,628
+370,Credit,2021-03-09 15:30:48,2344.457,Digitized full-range system engine,55,586
+371,Debit,2020-07-20 02:26:36,879.463,Polarised hybrid pricing structure,92,538
+372,Credit,2021-04-16 15:54:09,2208.127,Managed tertiary artificial intelligence,3,707
+373,Debit,2020-12-28 13:20:12,2002.066,Face to face coherent focus group,100,69
+374,Debit,2021-04-13 07:26:47,1869.855,Public-key global monitoring,39,78
+375,Debit,2020-05-18 05:12:03,3795.954,Function-based optimizing task-force,3,373
+376,Credit,2020-08-04 20:57:16,937.079,Sharable homogeneous groupware,76,667
+377,Debit,2020-07-28 14:28:01,543.893,Triple-buffered tangible monitoring,55,56
+378,Debit,2020-05-25 11:43:19,668.633,Diverse multi-state architecture,3,623
+379,Credit,2021-03-09 03:44:39,473.799,Synergized cohesive interface,93,728
+380,Credit,2021-02-14 12:23:10,3505.815,Optimized local task-force,92,53
+381,Debit,2021-02-07 21:49:37,3177.467,Seamless bandwidth-monitored forecast,91,365
+382,Credit,2020-05-14 13:58:51,3773.234,Configurable client-driven data-warehouse,93,78
+383,Credit,2021-05-03 13:06:42,2193.375,Function-based full-range capability,73,625
+384,Debit,2020-08-21 02:28:39,4290.922,Open-source object-oriented orchestration,2,400
+385,Debit,2021-03-23 00:13:12,4941.314,Multi-tiered contextually-based orchestration,91,48
+386,Debit,2020-11-11 21:45:18,2111.966,Sharable 6th generation functionalities,11,763
+387,Credit,2021-03-16 13:23:20,4541.415,Virtual responsive ability,19,595
+388,Credit,2020-08-25 11:38:16,3704.279,Ameliorated asynchronous frame,19,546
+389,Credit,2020-12-23 22:16:13,1712.078,Innovative contextually-based function,39,614
+390,Credit,2021-05-06 16:15:45,4521.827,Adaptive global access,2,452
+391,Credit,2020-09-03 21:56:09,4980.299,Focused methodical framework,91,439
+392,Credit,2021-03-20 03:06:54,4894.619,Inverse empowering projection,11,514
+393,Credit,2020-11-24 12:38:19,1985.481,Centralized next generation open system,97,302
+394,Debit,2020-08-22 15:49:54,2242.771,Progressive analyzing analyzer,2,664
+395,Credit,2020-08-20 06:33:08,1883.77,Compatible empowering model,1,370
+396,Debit,2020-09-05 15:19:50,395.131,De-engineered analyzing function,93,91
+397,Credit,2020-06-09 15:36:58,814.389,User-friendly incremental info-mediaries,64,2
+398,Credit,2021-01-25 00:56:04,2304.506,Robust real-time archive,3,487
+399,Debit,2021-01-18 09:58:33,478.057,Intuitive directional Graphic Interface,46,484
+400,Credit,2020-08-20 07:05:53,451.882,Focused heuristic approach,11,52
+401,Debit,2020-05-18 05:26:31,4345.347,Programmable optimal flexibility,19,534
+402,Debit,2020-08-18 18:25:41,3792.444,Balanced user-facing time-frame,91,364
+403,Debit,2020-12-14 11:35:45,3085.295,Persistent global concept,57,97
+404,Debit,2020-07-24 13:10:47,2410.487,Upgradable scalable focus group,76,2
+405,Debit,2020-06-17 05:41:15,3191.637,Cloned eco-centric functionalities,57,764
+406,Credit,2020-08-31 06:13:01,1739.747,Organized web-enabled neural-net,3,426
+407,Credit,2020-05-09 10:30:52,2832.815,Proactive encompassing throughput,11,764
+408,Debit,2020-05-31 22:45:20,392.5,Operative grid-enabled artificial intelligence,64,452
+409,Credit,2021-04-23 01:49:35,264.818,Advanced real-time utilisation,64,661
+410,Debit,2021-03-20 18:46:46,4840.885,Versatile fresh-thinking software,64,62
+411,Debit,2020-06-07 16:04:39,1308.309,Ergonomic holistic hardware,55,97
+412,Credit,2020-10-08 04:39:59,726.314,Streamlined 5th generation analyzer,1,575
+413,Debit,2020-09-09 13:32:09,875.387,Re-contextualized web-enabled concept,100,386
+414,Credit,2020-07-11 03:31:35,11.858,Universal optimizing model,76,443
+415,Credit,2020-10-25 15:03:52,4535.656,Devolved 5th generation support,97,346
+416,Credit,2020-10-22 11:19:14,3542.392,Virtual actuating throughput,11,82
+417,Debit,2021-02-18 23:02:19,1309.608,Streamlined needs-based initiative,76,775
+418,Debit,2021-03-26 10:09:23,4769.227,Object-based local groupware,39,313
+419,Debit,2021-02-04 10:53:42,3874.735,User-centric heuristic productivity,3,616
+420,Credit,2020-07-30 20:24:40,637.35,Assimilated context-sensitive productivity,75,676
+421,Credit,2020-07-20 14:03:34,2699.984,Synchronised secondary hub,55,657
+422,Debit,2020-12-16 11:44:56,2376.548,Customer-focused multimedia conglomeration,11,326
+423,Debit,2020-09-07 12:35:02,3035.2,Quality-focused composite model,64,794
+424,Debit,2021-04-08 18:49:25,55.918,User-centric stable functionalities,46,45
+425,Credit,2020-09-30 17:30:40,4259.083,Secured disintermediate Graphic Interface,11,351
+426,Debit,2020-06-04 02:37:48,1182.386,Ergonomic analyzing collaboration,91,706
+427,Credit,2021-03-31 07:45:07,4060.692,Realigned coherent encryption,39,368
+428,Credit,2020-07-13 16:58:25,4027.11,Enhanced client-driven forecast,3,743
+429,Debit,2020-12-26 03:30:05,1495.599,Right-sized foreground help-desk,92,31
+430,Debit,2020-12-21 07:33:26,2401.753,Horizontal homogeneous open architecture,92,424
+431,Debit,2020-10-21 23:35:28,2522.308,Re-engineered grid-enabled help-desk,97,334
+432,Credit,2021-04-25 23:05:49,1110.536,Re-contextualized heuristic leverage,46,745
+433,Debit,2020-08-20 03:38:43,1041.588,Universal scalable process improvement,64,44
+434,Credit,2020-05-19 05:56:32,361.55,Grass-roots actuating customer loyalty,75,390
+435,Credit,2020-07-21 04:02:40,4519.505,Expanded directional frame,2,505
+436,Credit,2020-05-29 12:43:10,2339.332,Optimized user-facing capacity,2,333
+437,Debit,2020-09-13 13:49:19,981.059,Persevering optimal pricing structure,11,77
+438,Credit,2020-08-01 03:12:48,2711.737,User-centric methodical capability,14,89
+439,Credit,2020-09-25 02:59:04,1260.32,Profit-focused intermediate budgetary management,92,720
+440,Credit,2021-01-30 18:58:34,760.971,Decentralized asymmetric solution,100,728
+441,Credit,2021-03-26 13:32:12,3040.221,Distributed multi-state system engine,75,744
+442,Debit,2021-04-06 21:55:52,374.566,Extended well-modulated flexibility,14,746
+443,Debit,2020-07-29 04:40:57,1829.339,Ergonomic next generation synergy,64,14
+444,Debit,2021-01-16 17:28:38,2196.438,Optimized secondary matrix,91,42
+445,Debit,2020-11-19 01:45:43,1319.278,Polarised methodical info-mediaries,73,371
+446,Debit,2020-12-06 11:15:31,183.337,Right-sized cohesive portal,3,491
+447,Credit,2021-02-17 21:11:14,2678.864,Re-engineered zero administration approach,46,576
+448,Credit,2020-06-01 13:14:10,4642.064,Progressive incremental orchestration,11,683
+449,Debit,2020-06-29 20:08:51,4189.64,Assimilated modular emulation,76,488
+450,Credit,2021-03-06 02:36:38,501.043,Compatible 24 hour standardization,11,608
+451,Debit,2020-09-09 10:31:39,2083.279,Versatile heuristic secured line,55,559
+452,Credit,2020-06-20 19:16:57,3747.381,Optional didactic time-frame,91,790
+453,Debit,2021-04-17 20:30:59,984.967,Innovative systemic collaboration,75,615
+454,Credit,2021-01-01 00:50:02,3155.688,Function-based multi-tasking project,19,63
+455,Debit,2021-02-28 21:02:25,4965.902,Progressive attitude-oriented open architecture,97,488
+456,Credit,2020-07-03 19:05:55,569.358,Mandatory bottom-line info-mediaries,92,629
+457,Debit,2020-08-30 22:20:08,2275.712,Horizontal mission-critical flexibility,2,781
+458,Debit,2020-09-13 00:46:21,3289.446,User-centric incremental paradigm,39,750
+459,Credit,2020-10-12 07:53:57,2127.663,Devolved 5th generation analyzer,14,534
+460,Credit,2020-05-16 05:51:25,2755.848,Managed full-range complexity,55,388
+461,Credit,2020-05-28 15:21:48,2731.998,Reactive demand-driven paradigm,14,613
+462,Credit,2020-06-22 16:57:37,1258.407,Polarised secondary emulation,55,311
+463,Credit,2020-09-23 19:06:16,4242.978,Reverse-engineered reciprocal monitoring,39,447
+464,Debit,2021-04-26 11:51:09,4195.625,Visionary value-added archive,1,55
+465,Credit,2021-01-05 01:36:13,2427.075,User-centric coherent Graphic Interface,57,411
+466,Debit,2020-12-17 13:44:10,2080.458,Assimilated asynchronous open system,75,74
+467,Debit,2021-04-03 23:48:00,300.288,Open-source full-range contingency,73,766
+468,Debit,2020-11-07 15:42:04,348.104,Progressive human-resource secured line,76,567
+469,Debit,2021-02-23 03:26:53,1261.98,Virtual real-time strategy,1,740
+470,Debit,2020-06-13 23:01:05,1600.812,Vision-oriented even-keeled definition,46,690
+471,Credit,2020-07-03 15:14:02,3907.459,Networked uniform complexity,97,619
+472,Credit,2020-07-20 23:58:27,1654.968,Advanced hybrid service-desk,57,447
+473,Debit,2020-06-13 06:12:07,2114.345,Exclusive didactic projection,11,79
+474,Debit,2020-05-22 01:44:24,2701.209,Universal homogeneous software,64,766
+475,Debit,2020-07-18 13:59:51,3024.697,Organic methodical encoding,92,411
+476,Credit,2021-01-07 03:49:22,1139.506,Multi-layered multi-tasking complexity,64,489
+477,Debit,2021-05-03 02:02:33,3576.723,Reactive human-resource capacity,1,526
+478,Debit,2020-11-20 08:38:51,1359.397,Universal solution-oriented definition,14,619
+479,Credit,2020-11-24 16:40:10,636.668,Right-sized needs-based throughput,97,7
+480,Debit,2020-06-23 19:52:45,4048.389,Open-architected content-based access,1,424
+481,Credit,2020-06-24 03:29:24,272.775,Total contextually-based hardware,57,523
+482,Credit,2020-12-09 22:59:26,1308.439,Profound composite concept,100,21
+483,Debit,2020-07-31 16:13:36,1378.287,Vision-oriented object-oriented support,11,653
+484,Debit,2020-09-07 20:59:16,4505.072,Robust 4th generation project,39,703
+485,Debit,2020-08-10 17:47:33,1630.731,Operative multimedia secured line,64,685
+486,Credit,2021-01-24 07:48:46,2954.194,Profit-focused fresh-thinking protocol,1,692
+487,Debit,2020-11-15 11:32:50,1817.61,Distributed actuating support,55,517
+488,Debit,2020-10-12 00:38:55,2730.605,Re-engineered composite emulation,91,750
+489,Debit,2020-12-31 06:39:58,1724.399,Realigned zero tolerance algorithm,93,363
+490,Credit,2020-05-27 22:24:19,3876.829,Innovative exuding database,57,623
+491,Debit,2020-12-30 09:53:32,2334.494,Enterprise-wide background budgetary management,39,558
+492,Credit,2020-11-19 07:26:47,2196.32,Cross-group neutral methodology,57,598
+493,Debit,2020-10-08 04:08:12,4560.893,Multi-lateral heuristic info-mediaries,73,650
+494,Credit,2021-01-05 02:20:02,1484.008,Organized composite Graphical User Interface,64,574
+495,Credit,2020-10-05 01:53:15,2036.353,Monitored foreground alliance,1,456
+496,Debit,2020-06-12 16:09:37,3913.835,Expanded uniform collaboration,91,706
+497,Credit,2020-11-11 21:09:18,4715.119,Triple-buffered content-based portal,76,751
+498,Credit,2021-01-01 15:02:14,2619.419,Robust full-range capacity,75,784
+499,Credit,2021-03-07 02:02:29,2380.715,Extended radical model,93,428
+500,Credit,2020-11-03 23:03:21,4385.658,Integrated leading edge local area network,2,691
+501,Credit,2020-07-29 07:20:32,297.412,Organic multi-state protocol,11,685
+502,Credit,2020-10-17 01:10:45,4380.294,Ameliorated directional workforce,75,739
+503,Debit,2020-09-27 09:03:17,676.618,Fundamental encompassing moratorium,46,318
+504,Debit,2020-07-19 05:05:26,4141.193,Reduced neutral structure,91,540
+505,Debit,2020-09-30 04:00:23,2955.124,Phased systematic migration,11,410
+506,Credit,2020-08-20 03:26:10,4138.93,Compatible mobile concept,91,335
+507,Debit,2021-02-11 20:57:05,3946.728,Versatile intangible paradigm,55,575
+508,Credit,2020-11-08 17:32:35,915.173,Multi-lateral content-based secured line,55,390
+509,Credit,2021-04-16 15:39:50,4734.813,Triple-buffered tertiary hierarchy,93,90
+510,Credit,2021-03-29 23:25:39,395.441,Integrated systematic knowledge base,75,559
+511,Debit,2020-11-12 17:30:34,4256.269,Adaptive clear-thinking core,46,31
+512,Debit,2021-03-09 11:27:05,3569.389,Configurable demand-driven throughput,92,780
+513,Credit,2021-01-27 11:42:58,608.604,Re-contextualized demand-driven website,64,654
+514,Debit,2020-07-27 23:17:09,4604.587,Multi-tiered multi-tasking concept,14,607
+515,Credit,2020-12-14 01:59:42,962.882,Mandatory stable emulation,97,353
+516,Credit,2020-10-23 20:41:30,4872.824,Focused composite alliance,1,394
+517,Debit,2021-04-21 16:22:40,1090.411,Operative executive support,64,427
+518,Debit,2020-07-13 08:48:42,4634.14,Public-key bi-directional orchestration,73,590
+519,Debit,2020-11-29 01:57:29,4127.004,Networked dedicated implementation,3,721
+520,Debit,2021-04-21 09:04:12,1468.858,Open-architected bi-directional paradigm,92,335
+521,Credit,2020-08-26 18:10:10,3196.846,Assimilated mission-critical challenge,91,644
+522,Debit,2021-02-11 10:28:01,1575.071,Synergized grid-enabled toolset,93,446
+523,Debit,2021-05-07 01:19:36,2835.928,Public-key background workforce,92,710
+524,Credit,2021-02-22 10:19:45,429.298,Configurable systematic adapter,19,665
+525,Credit,2020-11-28 16:40:17,2202.112,Ergonomic bi-directional firmware,64,796
+526,Credit,2020-09-09 17:57:20,3753.82,De-engineered well-modulated workforce,19,42
+527,Credit,2020-05-09 20:02:27,4591.227,Intuitive next generation success,73,574
+528,Credit,2020-06-07 08:03:42,1059.101,Intuitive asymmetric throughput,92,337
+529,Credit,2021-04-17 04:38:11,4809.69,User-friendly motivating focus group,1,705
+530,Debit,2020-10-31 01:06:43,2478.967,Mandatory heuristic support,14,421
+531,Credit,2021-02-04 06:48:46,922.892,Synchronised upward-trending hierarchy,75,20
+532,Debit,2020-07-02 22:47:54,804.792,Progressive background success,73,14
+533,Debit,2020-11-28 16:17:34,3617.956,Reduced local policy,92,22
+534,Credit,2020-08-27 16:40:10,4731.316,Innovative multi-state workforce,39,422
+535,Credit,2021-03-08 18:34:54,4853.997,Cross-group non-volatile process improvement,14,22
+536,Credit,2021-04-02 04:27:55,3622.041,Multi-tiered 5th generation workforce,3,401
+537,Debit,2021-03-11 16:27:21,31.602,Triple-buffered dynamic knowledge base,46,702
+538,Credit,2020-07-19 23:11:52,4570.72,Universal multi-tasking time-frame,1,606
+539,Debit,2020-12-08 14:37:37,2733.506,Secured clear-thinking installation,97,561
+540,Debit,2021-03-30 06:57:36,2632.609,Customer-focused national projection,3,475
+541,Debit,2020-05-14 00:45:06,1319.981,Assimilated full-range array,93,734
+542,Debit,2020-11-21 14:34:31,3020.852,Integrated local methodology,46,312
+543,Credit,2020-06-27 01:56:11,1824.409,Devolved multimedia framework,19,796
+544,Credit,2020-08-12 01:49:11,4869.303,Exclusive bottom-line core,55,673
+545,Credit,2020-11-09 17:38:16,2115.403,Distributed 6th generation service-desk,97,736
+546,Credit,2020-12-17 06:58:00,2110.177,Future-proofed national encoding,93,677
+547,Credit,2020-10-15 01:46:47,4517.808,Cross-group full-range intranet,11,601
+548,Debit,2021-03-26 03:18:44,389.677,Persistent bandwidth-monitored capacity,76,701
+549,Credit,2021-03-31 15:18:15,4246.895,Advanced dedicated portal,11,407
+550,Debit,2021-04-23 02:31:25,248.964,Programmable composite functionalities,75,449
+551,Debit,2021-03-10 15:55:50,1272.457,Open-architected neutral customer loyalty,14,527
+552,Credit,2020-07-07 12:12:23,618.985,Automated attitude-oriented emulation,1,742
+553,Debit,2021-05-01 15:17:09,1283.742,Quality-focused multi-tasking adapter,19,765
+554,Credit,2020-11-17 08:23:29,4403.605,Configurable tangible data-warehouse,46,323
+555,Credit,2020-06-18 07:45:53,4976.574,Triple-buffered eco-centric array,11,317
+556,Credit,2021-01-01 17:42:45,3395.131,Devolved local orchestration,19,646
+557,Credit,2021-02-05 04:48:47,1669.844,Synergized intangible knowledge base,3,648
+558,Credit,2021-03-10 06:18:56,1904.342,Intuitive maximized strategy,39,380
+559,Credit,2020-07-14 10:03:20,248.882,Decentralized fresh-thinking capacity,64,741
+560,Debit,2020-11-14 10:34:39,771.92,Balanced web-enabled help-desk,91,598
+561,Credit,2020-08-03 05:24:23,3428.105,Self-enabling analyzing throughput,11,470
+562,Credit,2020-08-31 11:19:54,1222.757,Ergonomic analyzing database,64,549
+563,Credit,2021-04-13 13:56:10,979.684,Adaptive mission-critical firmware,11,569
+564,Debit,2021-01-10 00:37:36,2833.487,Team-oriented modular archive,57,649
+565,Debit,2020-09-02 21:32:56,3556.59,Advanced motivating adapter,100,791
+566,Credit,2021-01-28 09:52:28,1704.47,Up-sized zero administration secured line,11,363
+567,Credit,2021-03-29 07:20:06,1154.718,Versatile 24/7 toolset,100,309
+568,Debit,2021-02-08 12:23:17,3908.909,Extended scalable challenge,76,743
+569,Credit,2021-02-03 19:01:05,1547.6,Networked responsive archive,2,85
+570,Debit,2021-05-07 00:19:05,1369.908,Focused background framework,76,416
+571,Debit,2020-12-04 00:01:18,4602.213,Function-based holistic task-force,76,598
+572,Debit,2021-02-08 23:38:08,3255.29,Customer-focused 24/7 infrastructure,39,29
+573,Credit,2020-06-24 21:37:43,3976.33,Sharable optimizing open architecture,14,544
+574,Debit,2020-07-22 16:42:22,2356.742,Polarised value-added archive,57,82
+575,Debit,2021-04-24 20:52:33,4795.034,Self-enabling mission-critical ability,73,655
+576,Credit,2020-06-14 20:41:31,4533.346,Customizable needs-based budgetary management,97,587
+577,Debit,2020-06-22 15:50:06,1140.943,Mandatory non-volatile secured line,75,57
+578,Debit,2021-04-01 06:00:30,1612.188,Self-enabling context-sensitive approach,2,41
+579,Credit,2020-11-18 15:23:17,1032.753,Persistent 24/7 hub,97,44
+580,Debit,2020-05-25 12:59:42,1749.998,Cross-group radical customer loyalty,100,697
+581,Credit,2020-12-22 23:30:34,390.249,Organized leading edge infrastructure,64,34
+582,Credit,2021-01-07 04:16:56,1472.943,Synchronised multimedia internet solution,11,608
+583,Debit,2021-03-16 11:58:24,4078.42,Multi-tiered next generation capability,75,606
+584,Debit,2020-06-29 11:36:05,2444.662,Switchable grid-enabled groupware,93,25
+585,Credit,2021-02-02 13:30:34,2709.252,Distributed human-resource challenge,64,401
+586,Credit,2020-09-12 15:06:37,4106.91,Multi-lateral leading edge parallelism,75,673
+587,Credit,2020-12-24 23:02:39,4036.002,Persistent clear-thinking focus group,64,73
+588,Credit,2020-06-16 12:14:11,3515.961,Distributed mission-critical service-desk,11,796
+589,Debit,2020-07-21 07:51:25,2143.832,Function-based zero defect matrix,73,657
+590,Credit,2020-08-12 10:35:55,2228.055,Mandatory non-volatile archive,64,711
+591,Credit,2020-12-29 21:21:41,938.652,Business-focused cohesive internet solution,73,800
+592,Credit,2020-12-01 18:08:46,4130.796,Ameliorated executive pricing structure,55,60
+593,Debit,2020-09-04 01:58:29,989.672,Devolved well-modulated encryption,92,611
+594,Debit,2020-11-20 23:30:47,4581.972,Virtual composite migration,57,9
+595,Debit,2020-09-10 17:48:27,3140.134,Assimilated actuating initiative,39,725
+596,Debit,2021-03-20 00:55:04,1118.372,Ameliorated object-oriented matrix,100,572
+597,Debit,2020-05-13 06:58:56,3336.115,Switchable multimedia standardization,100,88
+598,Debit,2020-10-12 07:16:30,818.259,Networked fresh-thinking Graphical User Interface,76,705
+599,Credit,2020-12-07 06:49:20,602.563,Balanced 24/7 intranet,14,746
+600,Debit,2020-11-15 17:11:46,2507.516,Visionary systematic middleware,57,428
+601,Debit,2021-03-02 13:21:46,2478.254,Streamlined demand-driven portal,97,733
+602,Credit,2021-01-03 00:50:14,2722.676,Re-contextualized tangible middleware,97,552
+603,Debit,2020-08-11 18:47:16,4337.718,Innovative well-modulated task-force,100,530
+604,Credit,2020-06-09 12:12:19,1329.576,Virtual context-sensitive local area network,1,90
+605,Credit,2020-11-16 02:28:59,4846.107,Enhanced client-server data-warehouse,100,542
+606,Debit,2020-09-24 16:57:05,2376.827,Assimilated fresh-thinking ability,46,447
+607,Credit,2020-10-28 04:52:56,2139.144,User-friendly demand-driven database,91,366
+608,Debit,2020-05-09 22:21:20,3264.782,Front-line needs-based policy,73,446
+609,Debit,2020-08-25 21:27:54,3970.536,Organized actuating info-mediaries,11,362
+610,Debit,2020-07-31 12:33:07,3236.866,Pre-emptive intermediate conglomeration,97,11
+611,Debit,2020-11-17 09:37:14,517.179,Vision-oriented real-time installation,11,322
+612,Debit,2020-10-04 04:28:52,2970.864,Public-key motivating capability,14,71
+613,Debit,2020-10-18 18:55:37,4497.15,Networked foreground instruction set,97,452
+614,Credit,2021-02-13 00:06:59,4958.196,Decentralized systemic budgetary management,11,746
+615,Debit,2021-01-19 23:59:45,4885.755,Programmable logistical groupware,76,334
+616,Debit,2020-11-05 01:39:39,808.948,Intuitive encompassing internet solution,57,518
+617,Debit,2020-12-13 15:13:37,4052.661,Quality-focused static budgetary management,64,799
+618,Credit,2021-02-11 03:22:02,1444.214,Programmable needs-based toolset,75,681
+619,Credit,2020-11-30 13:30:26,2144.661,Cross-platform multi-state software,55,48
+620,Debit,2020-11-03 05:31:19,265.622,Enterprise-wide foreground function,97,416
+621,Credit,2020-06-05 20:49:43,709.658,Seamless background Graphical User Interface,1,58
+622,Debit,2021-04-24 21:57:17,3564.026,Future-proofed national attitude,97,355
+623,Credit,2020-11-20 11:58:48,4537.966,De-engineered fresh-thinking local area network,75,744
+624,Debit,2021-01-15 09:05:03,1490.927,Automated global hardware,92,532
+625,Debit,2020-07-26 11:25:01,2384.64,Synergized client-server model,2,482
+626,Debit,2020-07-16 08:15:42,1969.89,Balanced reciprocal open system,91,474
+627,Credit,2020-05-17 22:23:02,840.382,Cloned motivating frame,73,309
+628,Credit,2020-08-11 21:24:43,1287.114,Persevering tertiary system engine,75,740
+629,Credit,2021-02-15 21:17:49,4309.744,Reduced modular system engine,46,576
+630,Debit,2020-07-03 16:13:20,1572.466,Optimized value-added benchmark,46,800
+631,Debit,2020-06-29 05:41:01,15.582,Optional holistic model,76,335
+632,Credit,2020-06-03 16:33:37,975.926,Persistent multi-state approach,1,581
+633,Debit,2021-03-05 18:03:14,4437.302,Quality-focused asynchronous attitude,14,469
+634,Debit,2020-07-25 02:31:05,4223.268,Object-based neutral groupware,2,510
+635,Credit,2020-12-19 07:06:37,3157.321,Synergistic eco-centric alliance,97,28
+636,Credit,2021-01-24 20:39:40,4318.701,Proactive client-driven middleware,100,466
+637,Credit,2020-10-26 12:34:49,2224.376,Front-line demand-driven system engine,46,514
+638,Debit,2020-09-25 05:38:30,2970.626,Ameliorated responsive complexity,100,13
+639,Debit,2020-05-31 17:53:39,3036.713,Front-line coherent customer loyalty,76,660
+640,Debit,2020-10-30 16:25:17,4009.957,Triple-buffered heuristic superstructure,46,743
+641,Credit,2021-04-17 01:09:45,4824.647,Switchable scalable algorithm,3,410
+642,Credit,2020-09-03 09:24:59,1506.22,Secured user-facing flexibility,11,614
+643,Credit,2021-03-03 14:37:37,3854.321,Extended tertiary website,14,66
+644,Credit,2020-05-15 01:46:30,1744.28,Inverse empowering productivity,91,727
+645,Credit,2020-05-28 21:50:48,1234.584,Upgradable user-facing migration,75,554
+646,Credit,2021-05-02 01:04:28,4742.156,Monitored incremental workforce,1,601
+647,Credit,2021-03-06 10:26:03,3979.221,Front-line motivating knowledge base,100,38
+648,Debit,2020-09-18 12:17:32,1947.73,Upgradable regional access,75,344
+649,Credit,2020-09-23 05:51:08,2051.582,Fundamental tangible artificial intelligence,14,545
+650,Debit,2020-09-07 16:24:12,4679.436,Public-key explicit portal,3,494
+651,Debit,2021-02-11 20:58:06,327.762,Distributed intermediate archive,55,576
+652,Credit,2020-06-18 14:19:29,3640.529,Streamlined needs-based firmware,92,377
+653,Credit,2021-01-11 11:21:13,1908.892,Phased discrete service-desk,97,745
+654,Debit,2021-03-05 20:37:58,4898.725,Centralized high-level productivity,64,355
+655,Debit,2020-08-20 22:13:49,4725.222,Multi-channelled eco-centric emulation,46,98
+656,Credit,2020-09-20 02:03:15,1728.395,Stand-alone coherent artificial intelligence,93,791
+657,Credit,2020-05-18 12:03:15,678.247,Enhanced explicit forecast,100,325
+658,Debit,2020-05-19 14:47:35,2017.071,Multi-lateral neutral intranet,46,92
+659,Debit,2021-03-09 20:54:27,4529.461,Pre-emptive 24/7 migration,14,338
+660,Debit,2020-06-03 11:24:56,454.741,Fundamental uniform access,14,633
+661,Credit,2021-02-04 13:47:46,3881.913,Triple-buffered next generation circuit,39,713
+662,Credit,2020-11-20 12:53:39,1616.253,Sharable attitude-oriented knowledge base,64,501
+663,Credit,2021-04-17 01:00:00,946.42,Ameliorated asymmetric analyzer,76,688
+664,Debit,2021-04-02 19:38:25,2208.774,Automated exuding local area network,1,485
+665,Debit,2020-10-01 09:24:17,15.755,Switchable interactive info-mediaries,92,374
+666,Debit,2021-01-29 16:34:57,3112.934,Function-based 3rd generation Graphical User Interface,57,613
+667,Credit,2021-04-10 20:22:00,2023.831,Team-oriented exuding flexibility,14,91
+668,Debit,2020-09-11 15:48:59,3391.654,Virtual system-worthy workforce,64,42
+669,Debit,2020-12-06 05:13:17,3743.374,Object-based user-facing policy,73,715
+670,Debit,2020-09-18 12:15:17,555.653,Programmable radical open system,57,432
+671,Debit,2020-05-20 15:09:06,3145.302,Robust responsive synergy,46,100
+672,Credit,2021-05-01 12:18:23,4107.511,Re-contextualized intermediate core,1,1
+673,Debit,2020-09-25 16:13:34,1142.385,Centralized mobile software,3,670
+674,Credit,2020-11-11 01:33:27,739.397,Object-based contextually-based capacity,19,694
+675,Credit,2020-06-23 10:56:44,113.422,Total uniform throughput,92,600
+676,Credit,2021-01-16 06:58:41,2252.51,Innovative motivating throughput,93,460
+677,Credit,2020-08-11 12:59:54,2385.042,Multi-tiered discrete analyzer,14,591
+678,Debit,2021-04-16 17:19:43,1692.577,Enhanced dynamic leverage,73,309
+679,Credit,2020-05-21 18:38:33,2090.549,Optional transitional knowledge base,100,304
+680,Credit,2020-06-11 19:29:43,3337.857,Face to face context-sensitive application,91,556
+681,Credit,2021-03-21 20:18:55,4030.336,Multi-lateral modular leverage,39,461
+682,Credit,2020-12-20 23:06:08,3915.298,Ergonomic bottom-line knowledge base,3,385
+683,Credit,2020-12-24 13:58:01,236.593,Reduced leading edge flexibility,100,366
+684,Credit,2021-01-20 12:14:15,780.747,User-friendly bi-directional application,39,686
+685,Credit,2021-01-07 06:32:17,3821.618,Public-key multi-state function,64,525
+686,Debit,2021-04-06 02:51:49,2517.385,Centralized radical extranet,1,682
+687,Credit,2020-08-02 17:53:45,342.856,De-engineered 6th generation circuit,100,533
+688,Debit,2021-04-01 07:07:59,1779.585,Realigned optimizing standardization,2,335
+689,Credit,2020-10-31 10:38:14,2381.399,Horizontal intermediate throughput,11,422
+690,Credit,2020-09-25 06:56:01,4345.074,Up-sized value-added methodology,93,324
+691,Credit,2021-01-16 12:18:43,555.568,Ameliorated client-server capability,64,9
+692,Debit,2020-11-09 21:58:19,4432.115,Expanded maximized knowledge user,92,416
+693,Credit,2021-03-30 14:54:33,1814.984,Stand-alone asymmetric pricing structure,19,355
+694,Credit,2020-05-24 21:36:14,836.404,Networked system-worthy encoding,64,498
+695,Credit,2021-02-21 04:41:41,342.198,Future-proofed 5th generation instruction set,100,526
+696,Credit,2021-03-26 10:04:42,899.013,Synergized multi-state archive,11,464
+697,Debit,2020-06-15 09:35:37,2381.735,Ameliorated even-keeled concept,57,511
+698,Debit,2021-04-01 00:07:33,4331.793,Visionary encompassing matrix,46,312
+699,Credit,2020-09-14 16:09:58,2849.819,Sharable foreground encoding,39,369
+700,Debit,2021-04-07 11:50:52,3919.635,Cross-group client-driven architecture,55,389
+701,Debit,2020-06-07 03:10:35,470.575,Up-sized global strategy,14,737
+702,Credit,2020-09-12 15:24:50,1900.326,Multi-layered zero tolerance toolset,14,653
+703,Debit,2020-06-02 11:36:56,1391.624,Persistent grid-enabled initiative,19,325
+704,Debit,2020-05-09 05:25:41,4123.907,Automated impactful task-force,57,733
+705,Credit,2021-02-03 19:53:31,3715.467,Customer-focused mobile encoding,91,714
+706,Debit,2021-02-12 14:33:08,2044.114,Re-engineered optimizing ability,100,42
+707,Debit,2020-11-25 17:15:01,735.271,Versatile bandwidth-monitored success,92,659
+708,Debit,2021-02-14 22:39:05,1455.417,Programmable clear-thinking attitude,14,339
+709,Credit,2021-04-05 12:27:38,4870.79,Networked asynchronous service-desk,97,92
+710,Credit,2020-06-24 22:45:52,1134.383,Ergonomic leading edge projection,55,588
+711,Credit,2020-10-24 19:48:29,2164.276,Digitized modular intranet,76,301
+712,Credit,2020-08-20 22:26:27,1021.278,Universal foreground complexity,97,670
+713,Credit,2020-08-26 12:33:02,4898.248,Diverse 6th generation infrastructure,93,526
+714,Debit,2020-10-23 21:58:54,330.247,Implemented client-server project,19,332
+715,Credit,2020-05-12 06:29:11,3058.816,Digitized intangible emulation,1,357
+716,Debit,2020-10-24 05:54:28,3480.53,Networked real-time local area network,14,782
+717,Debit,2020-06-28 10:18:15,774.78,Optional asymmetric approach,97,93
+718,Debit,2020-05-15 09:35:30,4846.596,Diverse tangible orchestration,91,742
+719,Debit,2020-07-15 08:02:47,1078.106,Reduced fault-tolerant process improvement,11,432
+720,Debit,2020-12-01 19:40:47,1376.786,Vision-oriented demand-driven customer loyalty,93,457
+721,Debit,2020-10-02 13:33:27,2020.784,Advanced dedicated success,100,549
+722,Credit,2021-02-10 20:04:39,2328.388,User-centric grid-enabled array,64,367
+723,Debit,2020-10-02 00:26:42,2549.682,Down-sized empowering productivity,3,65
+724,Debit,2021-01-18 10:15:51,2461.982,Integrated value-added moratorium,100,548
+725,Debit,2021-02-10 21:12:17,286.133,Virtual discrete productivity,57,718
+726,Debit,2021-04-25 03:57:35,395.286,Secured national task-force,1,303
+727,Credit,2020-10-26 22:30:20,2349.373,Team-oriented fresh-thinking matrix,93,682
+728,Debit,2020-09-09 13:57:12,4926.641,Multi-lateral maximized system engine,3,483
+729,Debit,2020-09-29 06:09:37,1415.828,Ergonomic radical process improvement,2,555
+730,Credit,2021-02-06 07:57:31,2240.793,Multi-layered neutral concept,2,693
+731,Credit,2020-08-16 16:08:02,7.571,Enhanced radical protocol,11,522
+732,Credit,2020-09-10 18:30:48,821.955,Persistent asynchronous concept,100,660
+733,Debit,2020-10-24 23:53:54,36.058,Stand-alone regional model,75,655
+734,Debit,2021-02-10 08:50:26,1996.597,Intuitive heuristic encryption,46,667
+735,Debit,2021-03-30 07:24:53,3911.062,Advanced 4th generation support,91,411
+736,Debit,2020-10-06 14:44:41,4499.052,Customer-focused next generation system engine,2,750
+737,Debit,2020-07-28 13:06:43,2518.373,User-centric executive workforce,64,302
+738,Credit,2021-04-17 07:20:20,1344.253,Cross-group 3rd generation portal,19,705
+739,Debit,2021-01-24 06:22:10,2655.331,Digitized multimedia standardization,46,396
+740,Credit,2020-11-04 19:40:18,491.99,Exclusive 6th generation superstructure,76,635
+741,Credit,2020-10-02 16:43:13,3407.244,Centralized intangible monitoring,57,568
+742,Debit,2020-08-04 09:43:33,832.898,Implemented background secured line,11,437
+743,Credit,2020-09-25 05:12:10,2418.856,Phased value-added middleware,76,652
+744,Credit,2020-12-21 01:14:25,33.068,Re-contextualized analyzing open system,11,84
+745,Credit,2020-10-13 18:44:35,1626.382,Public-key executive interface,11,355
+746,Credit,2020-08-07 01:18:56,4752.128,Ameliorated zero tolerance paradigm,73,634
+747,Debit,2021-01-13 00:05:29,900.855,Universal neutral matrix,46,84
+748,Debit,2021-01-01 01:29:26,1251.566,Customizable background matrix,73,783
+749,Credit,2020-09-29 13:34:00,2990.253,Assimilated real-time adapter,14,54
+750,Debit,2020-10-17 03:30:57,1912.501,Re-engineered secondary policy,11,396
+751,Credit,2021-01-21 18:43:51,3309.816,Multi-layered intermediate emulation,64,3
+752,Debit,2020-10-30 02:58:45,2893.283,Persevering tangible local area network,11,42
+753,Credit,2020-11-28 04:40:46,1918.962,Realigned dedicated info-mediaries,11,18
+754,Credit,2021-03-18 09:43:04,1229.613,Public-key actuating analyzer,19,660
+755,Credit,2021-02-17 21:28:12,4954.522,Quality-focused disintermediate structure,39,395
+756,Debit,2021-01-31 10:16:54,3820.317,Diverse heuristic analyzer,39,631
+757,Debit,2020-05-19 01:09:45,4485.833,Polarised multi-state access,2,305
+758,Credit,2021-01-13 17:15:03,4707.671,Horizontal logistical initiative,39,328
+759,Debit,2020-05-09 02:18:51,3950.323,Right-sized impactful application,1,40
+760,Credit,2021-03-20 14:29:36,4994.564,Multi-layered empowering encoding,2,724
+761,Credit,2021-05-07 22:06:56,4868.383,Secured foreground toolset,11,2
+762,Debit,2020-10-09 03:41:10,204.717,Versatile methodical monitoring,1,312
+763,Credit,2020-10-01 15:42:59,3944.226,Re-engineered zero tolerance website,64,88
+764,Credit,2021-02-23 03:39:32,4189.2,Realigned coherent system engine,76,604
+765,Debit,2020-12-04 02:38:51,591.999,Total dynamic moratorium,64,793
+766,Debit,2021-02-20 03:16:21,2992.873,Organic systematic artificial intelligence,2,657
+767,Credit,2021-03-19 23:15:58,2443.069,Face to face secondary help-desk,2,599
+768,Debit,2020-06-26 09:06:54,1505.647,Virtual didactic capability,11,646
+769,Debit,2021-02-04 04:54:40,655.036,Persistent object-oriented emulation,1,88
+770,Debit,2020-07-29 04:27:45,4813.181,Profound system-worthy groupware,11,32
+771,Debit,2020-11-21 04:51:27,3042.706,Fundamental heuristic hub,73,530
+772,Credit,2020-11-11 17:15:04,341.757,Profit-focused reciprocal capacity,76,42
+773,Debit,2020-08-28 13:30:27,3964.294,Expanded object-oriented conglomeration,76,517
+774,Debit,2021-03-13 12:58:52,4528.56,Vision-oriented leading edge circuit,93,420
+775,Debit,2020-09-28 23:22:12,1631.885,Persistent even-keeled circuit,93,68
+776,Debit,2020-10-02 07:14:48,3623.909,Visionary eco-centric process improvement,76,318
+777,Debit,2020-09-25 09:22:33,1946.755,Cloned zero tolerance task-force,92,314
+778,Credit,2020-12-08 08:29:18,1371.828,Integrated client-server migration,11,768
+779,Credit,2021-02-13 21:27:24,45.037,Persistent non-volatile intranet,76,780
+780,Credit,2020-12-27 02:23:54,959.532,Balanced empowering success,14,405
+781,Debit,2020-06-23 01:51:30,3729.396,Pre-emptive client-server project,55,463
+782,Debit,2020-10-21 06:32:20,3001.882,Cross-group well-modulated service-desk,64,642
+783,Credit,2021-03-20 04:35:00,1589.584,Focused demand-driven instruction set,64,720
+784,Debit,2020-12-06 19:23:12,3072.454,Extended intermediate complexity,92,638
+785,Credit,2020-07-04 04:09:43,4084.085,Quality-focused 4th generation model,2,311
+786,Credit,2020-05-18 12:51:06,3361.771,Horizontal next generation Graphic Interface,11,664
+787,Credit,2020-08-22 17:53:28,1299.323,Versatile client-driven analyzer,57,56
+788,Credit,2020-09-07 19:47:17,514.197,Polarised background superstructure,1,639
+789,Credit,2020-09-06 16:38:44,1393.857,Reduced content-based internet solution,92,373
+790,Credit,2020-08-06 04:13:12,856.042,Future-proofed composite ability,1,430
+791,Credit,2020-11-06 13:58:58,207.11,Multi-channelled neutral support,39,680
+792,Credit,2020-11-16 04:59:08,875.262,Grass-roots 24 hour project,97,627
+793,Credit,2021-04-05 15:13:39,3533.149,Extended object-oriented migration,76,773
+794,Debit,2021-02-19 11:07:26,169.41,Devolved optimal hub,75,562
+795,Debit,2020-11-16 07:48:47,3231.879,Multi-tiered user-facing portal,64,714
+796,Debit,2021-05-04 17:53:40,2852.186,Adaptive user-facing system engine,55,577
+797,Debit,2021-05-01 07:50:24,3554.193,Down-sized contextually-based adapter,91,583
+798,Credit,2021-02-24 05:59:19,853.788,Face to face leading edge architecture,57,684
+799,Credit,2020-06-30 19:44:39,1977.287,Intuitive transitional methodology,92,754
+800,Debit,2020-06-28 18:17:37,52.836,Total incremental database,19,89
+801,Credit,2021-01-22 10:46:14,4635.569,Profound systematic initiative,97,597
+802,Debit,2021-03-24 04:03:36,4802.314,Re-contextualized bifurcated knowledge base,93,798
+803,Credit,2021-01-11 13:09:10,4591.492,Public-key clear-thinking paradigm,3,643
+804,Credit,2020-06-20 22:59:11,4281.692,Automated optimizing contingency,57,91
+805,Credit,2020-10-01 18:17:16,2633.012,Horizontal even-keeled productivity,55,63
+806,Debit,2021-03-19 23:47:20,3185.36,Ergonomic fresh-thinking infrastructure,57,31
+807,Debit,2020-12-18 17:46:03,1409.112,Enhanced full-range standardization,1,316
+808,Credit,2021-03-27 12:49:46,2363.091,Function-based logistical productivity,64,512
+809,Debit,2020-12-14 08:17:33,1404.748,Monitored bottom-line core,11,754
+810,Debit,2020-11-11 06:37:25,980.664,User-friendly needs-based attitude,11,369
+811,Debit,2020-06-15 07:22:02,1921.69,Function-based contextually-based hardware,2,455
+812,Credit,2020-06-25 12:41:49,4473.473,Pre-emptive modular Graphic Interface,93,92
+813,Credit,2021-04-22 14:17:59,26.673,Re-engineered 24 hour encoding,75,713
+814,Credit,2020-06-16 07:28:03,3793.297,Cloned full-range structure,46,327
+815,Credit,2020-12-21 08:02:02,3367.542,Pre-emptive tertiary productivity,14,91
+816,Debit,2020-11-14 10:03:10,1707.544,User-centric system-worthy knowledge base,76,433
+817,Debit,2021-01-03 19:51:04,4414.061,Function-based web-enabled functionalities,2,498
+818,Credit,2020-12-18 00:23:55,2208.435,Compatible explicit database,46,704
+819,Debit,2021-04-24 08:28:56,2148.112,Function-based fault-tolerant hardware,3,711
+820,Credit,2021-03-19 17:29:42,176.54,Public-key high-level architecture,39,7
+821,Debit,2021-03-20 04:36:27,3230.312,Digitized asymmetric leverage,64,797
+822,Debit,2021-02-19 06:52:38,3437.157,Synchronised modular methodology,92,522
+823,Credit,2020-08-31 02:04:20,2523.061,Expanded leading edge support,19,529
+824,Debit,2020-10-02 08:04:10,2649.722,Profound explicit flexibility,93,719
+825,Credit,2020-10-18 13:05:53,692.31,Multi-layered tangible process improvement,76,795
+826,Debit,2021-01-13 01:09:31,1466.191,Ameliorated mobile local area network,46,743
+827,Debit,2021-03-17 14:18:10,580.083,Programmable homogeneous task-force,76,94
+828,Credit,2020-09-11 15:52:40,3189.255,Horizontal local info-mediaries,57,338
+829,Debit,2020-07-18 21:56:04,4104.339,Object-based 24 hour encryption,75,710
+830,Debit,2020-06-14 00:22:34,3633.974,Up-sized analyzing definition,1,436
+831,Credit,2021-02-19 09:25:59,1681.218,Diverse directional extranet,11,514
+832,Credit,2021-02-05 00:05:12,2747.555,Object-based human-resource implementation,1,663
+833,Credit,2020-12-18 00:35:02,3496.023,Seamless didactic system engine,46,666
+834,Debit,2020-12-12 19:06:55,4191.14,Stand-alone secondary success,73,316
+835,Credit,2020-11-08 07:13:27,4595.17,Reactive discrete process improvement,3,748
+836,Credit,2021-02-11 04:18:54,233.064,Future-proofed 3rd generation workforce,1,760
+837,Debit,2021-03-24 08:00:42,2778.188,Quality-focused leading edge utilisation,73,335
+838,Credit,2020-09-12 15:03:44,2472.016,Polarised bandwidth-monitored neural-net,11,64
+839,Credit,2020-06-10 17:04:00,3738.427,Object-based 3rd generation encoding,92,444
+840,Credit,2021-01-25 17:51:40,1050.5,Implemented leading edge leverage,11,437
+841,Credit,2020-05-10 21:34:05,1305.252,Fundamental uniform productivity,11,314
+842,Credit,2021-01-24 00:20:24,2201.618,Vision-oriented 4th generation neural-net,57,670
+843,Debit,2021-02-11 11:28:42,4550.933,Enhanced radical concept,46,795
+844,Debit,2020-08-30 09:44:09,991.208,Up-sized upward-trending framework,11,603
+845,Credit,2020-05-17 16:33:42,4651.952,Horizontal responsive migration,11,313
+846,Credit,2020-08-30 17:04:20,2012.701,Persevering intermediate process improvement,100,403
+847,Credit,2021-02-09 01:42:06,2869.049,Automated real-time support,11,718
+848,Credit,2021-03-28 06:51:50,4155.877,Advanced non-volatile interface,64,84
+849,Credit,2020-10-21 12:28:38,4420.646,Business-focused holistic forecast,1,568
+850,Debit,2020-08-18 03:24:47,3512.326,Operative discrete product,19,671
+851,Credit,2020-06-13 10:21:38,4382.888,Digitized multi-tasking solution,11,87
+852,Credit,2020-05-18 01:47:31,1894.732,Synchronised cohesive adapter,2,680
+853,Debit,2021-01-15 00:30:26,4602.727,Horizontal asynchronous archive,100,477
+854,Debit,2020-12-11 22:15:44,2829.059,User-friendly high-level installation,1,668
+855,Credit,2020-10-03 14:20:54,75.336,Customer-focused zero administration portal,3,696
+856,Credit,2020-08-19 15:44:36,1240.055,Upgradable local instruction set,3,747
+857,Debit,2021-01-20 13:48:59,3269.124,User-friendly asynchronous solution,97,529
+858,Debit,2020-10-29 04:49:57,1834.214,Front-line cohesive workforce,57,409
+859,Debit,2020-06-01 05:40:12,2615.222,Ergonomic fresh-thinking groupware,91,58
+860,Credit,2020-11-22 12:30:30,2319.266,Universal empowering open system,46,334
+861,Credit,2021-02-14 04:01:16,1699.098,Visionary optimal ability,93,750
+862,Debit,2020-05-31 04:35:47,1362.407,Fundamental user-facing portal,91,551
+863,Credit,2021-03-05 14:18:10,2216.102,Compatible modular circuit,55,83
+864,Credit,2020-11-09 02:44:06,3394.875,Profound 3rd generation budgetary management,64,334
+865,Credit,2020-08-06 15:46:53,2012.08,Open-architected incremental product,76,489
+866,Credit,2020-07-03 08:21:35,2941.11,Integrated well-modulated software,75,83
+867,Credit,2020-07-28 10:06:04,3398.693,Devolved secondary flexibility,76,345
+868,Debit,2021-03-16 00:17:15,600.2,Synchronised holistic intranet,2,399
+869,Debit,2020-12-29 14:56:57,2319.129,Balanced interactive functionalities,11,685
+870,Credit,2021-03-25 15:20:09,541.337,Mandatory exuding collaboration,1,369
+871,Debit,2020-11-09 22:43:03,999.379,Self-enabling secondary paradigm,64,37
+872,Debit,2021-03-20 05:35:49,914.173,Reduced 3rd generation circuit,97,554
+873,Credit,2020-06-05 11:53:58,2096.653,Multi-channelled analyzing alliance,14,678
+874,Debit,2020-12-17 12:48:18,1296.538,Universal local capability,97,774
+875,Credit,2020-11-09 02:04:18,2085.605,Compatible value-added orchestration,11,467
+876,Debit,2021-02-10 04:37:08,1163.689,Front-line well-modulated architecture,100,617
+877,Debit,2020-12-24 18:28:52,1580.724,Inverse attitude-oriented projection,46,17
+878,Debit,2020-11-30 05:03:30,4045.827,Decentralized real-time workforce,2,53
+879,Debit,2021-03-31 13:51:24,1082.598,Triple-buffered hybrid hierarchy,76,348
+880,Debit,2020-11-11 00:15:52,672.981,Persistent next generation policy,39,376
+881,Credit,2020-09-03 02:14:39,486.117,Open-source clear-thinking standardization,75,470
+882,Debit,2021-03-29 13:47:07,749.796,Compatible web-enabled knowledge user,92,720
+883,Credit,2020-10-19 14:24:46,3310.196,Integrated holistic migration,11,358
+884,Credit,2020-11-04 16:10:01,4146.927,Enterprise-wide stable hardware,92,685
+885,Credit,2021-02-23 04:51:39,2229.64,Multi-tiered static middleware,14,76
+886,Debit,2020-09-15 19:54:27,4525.707,Virtual high-level moderator,100,703
+887,Debit,2021-03-04 23:11:46,747.26,Front-line homogeneous solution,2,30
+888,Credit,2020-12-06 01:28:40,4062.278,Fundamental hybrid pricing structure,93,522
+889,Credit,2020-09-20 08:18:38,1847.75,Fully-configurable discrete interface,97,395
+890,Credit,2020-09-06 11:09:34,2608.688,Future-proofed bandwidth-monitored encoding,73,505
+891,Credit,2021-03-06 11:18:10,3974.179,Networked 24 hour paradigm,19,411
+892,Debit,2021-04-11 14:12:21,4342.525,Future-proofed client-server collaboration,73,578
+893,Credit,2020-07-06 13:49:13,4776.92,Implemented exuding definition,97,56
+894,Credit,2020-08-25 13:16:43,855.596,Innovative actuating strategy,39,379
+895,Debit,2021-04-08 08:27:05,3864.859,Horizontal context-sensitive protocol,76,594
+896,Credit,2020-06-17 11:01:33,2556.578,Cloned static forecast,19,651
+897,Credit,2020-07-10 12:48:51,4639.127,Customer-focused object-oriented info-mediaries,1,513
+898,Debit,2020-07-29 11:32:45,3468.558,Vision-oriented grid-enabled framework,92,92
+899,Credit,2020-08-05 01:25:23,2326.455,Integrated national info-mediaries,93,535
+900,Credit,2020-11-14 02:05:20,3476.253,Business-focused maximized open architecture,11,402
+901,Debit,2021-02-09 22:57:41,4912.278,Programmable context-sensitive application,2,767
+902,Credit,2020-07-31 12:53:37,2196.453,Profit-focused tangible capacity,2,564
+903,Debit,2020-08-22 19:47:03,3428.521,Profound system-worthy archive,97,468
+904,Credit,2020-08-24 15:20:12,754.987,Upgradable hybrid focus group,73,732
+905,Credit,2021-02-02 19:04:53,1034.325,Secured zero administration moderator,100,718
+906,Debit,2021-05-05 09:01:37,3338.177,Re-contextualized motivating info-mediaries,46,551
+907,Debit,2020-09-29 16:01:54,945.399,Reverse-engineered discrete benchmark,14,82
+908,Debit,2021-04-24 18:34:11,1992.353,Total web-enabled hardware,11,394
+909,Debit,2020-09-11 10:56:24,2775.89,Cross-group 6th generation leverage,14,513
+910,Credit,2021-03-16 04:19:25,1135.012,Front-line heuristic data-warehouse,11,563
+911,Credit,2020-08-18 16:39:30,2753.407,Enhanced human-resource pricing structure,73,372
+912,Credit,2020-06-29 08:45:04,526.37,Distributed actuating pricing structure,97,410
+913,Debit,2021-04-25 04:27:16,2302.541,Right-sized homogeneous migration,19,766
+914,Debit,2020-09-25 12:40:16,2490.076,Open-source impactful pricing structure,11,767
+915,Credit,2020-12-27 04:51:40,503.825,Polarised bifurcated protocol,100,597
+916,Credit,2020-05-16 11:30:54,4111.719,Centralized web-enabled attitude,93,305
+917,Debit,2020-05-27 17:38:04,2461.945,Public-key secondary firmware,14,451
+918,Credit,2020-06-22 11:42:44,1012.817,Face to face content-based hardware,14,701
+919,Debit,2021-01-11 21:38:09,410.876,Open-source dynamic access,39,535
+920,Credit,2020-05-15 12:32:14,1960.684,Reduced fresh-thinking model,39,782
+921,Debit,2021-03-23 21:42:21,305.485,Inverse actuating infrastructure,57,591
+922,Debit,2020-06-23 21:51:37,531.495,User-friendly zero tolerance capability,76,646
+923,Debit,2020-05-25 06:24:50,3445.607,Implemented methodical support,64,373
+924,Debit,2021-01-04 07:04:44,3020.554,Secured next generation hierarchy,73,641
+925,Credit,2020-10-26 07:23:09,2666.849,Open-source attitude-oriented groupware,93,630
+926,Credit,2020-06-19 10:24:56,2628.803,Extended context-sensitive encryption,55,735
+927,Credit,2021-02-20 08:37:05,2757.044,Multi-layered background structure,91,471
+928,Credit,2020-05-31 01:43:05,1462.966,Optional optimizing implementation,11,484
+929,Credit,2021-02-16 17:30:46,3054.325,Open-architected static project,75,739
+930,Debit,2021-02-22 10:46:20,4690.662,Universal multimedia moratorium,3,551
+931,Credit,2021-02-08 17:51:25,4239.672,Cross-group full-range implementation,75,348
+932,Credit,2020-08-26 13:39:46,4045.157,Implemented heuristic forecast,3,606
+933,Debit,2020-06-02 14:19:23,3648.57,Persistent hybrid flexibility,55,410
+934,Debit,2020-09-10 23:05:59,2095.07,Multi-tiered zero defect customer loyalty,73,646
+935,Credit,2020-11-13 20:48:39,2535.49,Ergonomic 24/7 installation,75,672
+936,Credit,2020-09-17 14:33:35,3345.614,Synergistic motivating migration,73,332
+937,Credit,2020-11-04 11:45:50,4637.283,Extended 24/7 concept,100,761
+938,Credit,2021-02-03 06:41:49,919.131,Organic dynamic project,39,555
+939,Debit,2020-12-13 06:00:11,2720.724,Virtual uniform time-frame,92,98
+940,Debit,2020-12-14 09:33:08,3451.299,Progressive 4th generation array,1,351
+941,Credit,2021-03-30 13:17:02,339.227,Down-sized static moratorium,64,54
+942,Debit,2021-04-18 08:19:10,4240.821,Team-oriented object-oriented protocol,55,677
+943,Debit,2021-03-15 03:32:17,2062.398,User-centric cohesive Graphic Interface,100,328
+944,Credit,2020-10-17 06:38:31,588.297,Synergistic 5th generation collaboration,1,19
+945,Debit,2020-06-29 10:02:17,1185.367,Reduced systematic initiative,11,75
+946,Debit,2020-10-06 10:58:14,369.207,Decentralized 24 hour circuit,55,616
+947,Debit,2020-05-23 03:56:39,1323.467,Pre-emptive coherent interface,64,330
+948,Credit,2020-09-21 11:20:53,1624.549,Synergized heuristic website,73,649
+949,Debit,2020-07-31 23:00:51,3695.691,Balanced next generation functionalities,19,658
+950,Debit,2020-12-24 15:12:17,3775.811,Devolved 5th generation info-mediaries,57,577
+951,Credit,2020-10-06 11:00:01,512.528,Assimilated empowering customer loyalty,1,679
+952,Debit,2021-02-22 23:55:46,913.53,Universal context-sensitive toolset,100,528
+953,Debit,2021-04-17 14:35:15,3872.885,Up-sized uniform hardware,93,677
+954,Debit,2020-11-10 05:59:35,2330.204,Right-sized methodical application,92,572
+955,Credit,2021-04-09 06:22:24,1919.672,Synergized holistic knowledge user,19,674
+956,Credit,2020-05-15 14:11:38,3260.121,Organized foreground encoding,19,503
+957,Debit,2020-12-01 01:53:59,302.914,Multi-tiered full-range strategy,73,469
+958,Credit,2020-05-25 10:36:03,2467.465,Configurable bi-directional open system,39,457
+959,Credit,2021-04-16 22:30:35,4244.906,Organized hybrid productivity,97,441
+960,Credit,2020-12-16 11:17:25,4620.007,Reverse-engineered systemic policy,19,422
+961,Debit,2021-03-03 01:30:54,4560.421,Virtual radical Graphic Interface,92,750
+962,Credit,2021-04-23 03:38:30,117.306,Automated discrete customer loyalty,73,458
+963,Credit,2020-11-24 22:45:56,3447.515,Adaptive didactic migration,92,32
+964,Credit,2020-08-24 09:45:15,1088.492,Self-enabling full-range data-warehouse,19,605
+965,Credit,2020-05-16 20:49:12,2257.249,Exclusive full-range model,3,383
+966,Debit,2021-04-23 06:01:59,4393.826,Diverse leading edge initiative,76,548
+967,Credit,2020-08-26 04:44:06,331.471,Customizable client-server policy,46,511
+968,Debit,2020-10-21 08:45:21,1180.78,Automated local installation,11,66
+969,Debit,2020-07-27 05:37:32,1309.647,Centralized homogeneous task-force,73,701
+970,Credit,2020-12-03 10:19:51,1615.699,Reverse-engineered coherent software,73,689
+971,Debit,2021-02-08 01:16:57,215.641,Optional uniform extranet,55,435
+972,Credit,2021-04-28 22:59:41,4735.361,Down-sized fresh-thinking moratorium,46,558
+973,Debit,2020-12-14 13:52:23,4877.047,Multi-layered 5th generation knowledge base,100,511
+974,Credit,2020-07-24 21:14:42,2644.183,Synergized responsive adapter,55,71
+975,Debit,2020-11-10 22:54:57,3637.383,Open-architected mission-critical info-mediaries,19,634
+976,Credit,2020-10-06 06:52:58,4478.242,Upgradable clear-thinking framework,11,322
+977,Credit,2020-11-13 20:12:57,3747.326,Focused context-sensitive hub,1,677
+978,Debit,2021-04-28 00:30:20,4799.26,Proactive client-driven database,91,536
+979,Debit,2021-01-03 16:26:40,1948.117,Advanced asymmetric core,11,612
+980,Debit,2020-05-10 13:13:12,4163.242,Customer-focused object-oriented database,46,413
+981,Debit,2020-09-16 22:51:08,828.077,Reactive leading edge implementation,92,755
+982,Credit,2021-04-02 17:14:32,4821.547,Progressive intermediate parallelism,97,435
+983,Credit,2020-07-09 01:20:18,905.683,Devolved background portal,93,509
+984,Credit,2020-11-25 09:52:36,2146.003,Operative next generation forecast,19,557
+985,Credit,2021-02-23 01:53:57,1167.455,Ergonomic client-server emulation,93,401
+986,Credit,2020-10-15 03:38:24,4178.487,Re-engineered transitional installation,64,10
+987,Credit,2020-12-02 10:17:20,3460.615,Upgradable zero tolerance emulation,73,533
+988,Debit,2021-01-28 03:47:35,2007.652,Expanded content-based application,19,799
+989,Credit,2020-12-04 06:36:39,3532.084,Devolved maximized forecast,3,789
+990,Debit,2020-08-31 20:36:04,3652.133,Versatile asynchronous pricing structure,100,334
+991,Debit,2020-08-07 05:53:46,368.208,Enhanced executive collaboration,19,446
+992,Credit,2021-01-15 16:22:09,4841.41,Horizontal multi-tasking leverage,14,343
+993,Credit,2021-03-01 11:21:02,3682.057,Proactive optimizing Graphic Interface,57,525
+994,Credit,2020-11-15 19:04:43,4102.896,Enhanced client-server extranet,1,745
+995,Debit,2020-11-01 12:31:58,2329.985,Upgradable demand-driven approach,46,344
+996,Credit,2020-12-09 15:14:55,3738.543,Monitored non-volatile frame,91,93
+997,Debit,2020-08-24 11:15:25,4643.206,Configurable 24/7 open architecture,57,725
+998,Credit,2021-01-10 19:37:49,163.135,Quality-focused bandwidth-monitored challenge,75,632
+999,Credit,2020-06-14 16:57:15,2325.664,Persevering value-added ability,73,355
+1000,Credit,2020-08-12 14:21:28,3778.693,Self-enabling regional leverage,76,17
